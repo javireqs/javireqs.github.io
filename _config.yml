@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Javier Hernandez Requena"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi! I like hacking things, creating, and continuosly learning new things."
+  bio    : "What's up? Welcome to my page! It's my pleasure to have you."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
