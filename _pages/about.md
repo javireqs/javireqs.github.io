@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
+
 Hi, my name is Javier Hernandez Requena, I'm a cyber security specialist with an emphasis on offensive security. 
 
 My journey started on the hardware side over a decade ago building vehicles for Tesla. At the same time, I was attending Las Positas College where I was fortunate enough to be a part of an Engineering Technology cohort in conjunction with Lawrence Livermore National Lab. From there I worked as an electrician and then moved onto engineering tech work for various companies and organizations. Some of my hardware engineering experience includes Amazon, Saildrone, Zoox, Pyka, and Tonal just to name a few. 
