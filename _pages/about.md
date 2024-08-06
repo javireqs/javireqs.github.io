@@ -1,13 +1,67 @@
 ---
 permalink: /about/
 title: "About"
+layout: splash
+date: 2016-03-23T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+feature_row:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row2:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
+{% include feature_row id="intro" type="center" %}
 
-Hi, my name is Javier Hernandez Requena, I'm a cyber security specialist with an emphasis on offensive security. 
+{% include feature_row %}
 
-My journey started on the hardware side over a decade ago building vehicles for Tesla. At the same time, I was attending Las Positas College where I was fortunate enough to be a part of an Engineering Technology cohort in conjunction with Lawrence Livermore National Lab. From there I worked as an electrician and then moved onto engineering tech work for various companies and organizations. Some of my hardware engineering experience includes Amazon, Saildrone, Zoox, Pyka, and Tonal just to name a few. 
+{% include feature_row id="feature_row2" type="left" %}
 
-In 2019 I joined City College of San Francisco's cybersecurity program where my curiosity for all things computer-related flourished. I began diving deeper and deeper into security, but realized that I wanted to explore programming as well. I received several certificates of achievement in C++, Python, Web-Development, and Security for Web-Applications. While attending CCSF, I joined the school hacking team and achieved 2nd place in the Global Collegiate Penetration Testing Competition's Western Regionals held at Stanford University.
+{% include feature_row id="feature_row3" type="right" %}
 
-Since then, I have started creating content and pursuing my bachelor's in cybersecurity and information assurance from Western Governor's University. This allows me to focus on honing my skills while building my own personal brand and business. I am truly grateful for the achievements of all those who came before me as it allows me to humbly strive towards excellence and innovation. Here's to the future!
+{% include feature_row id="feature_row4" type="center" %}
