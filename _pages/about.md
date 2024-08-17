@@ -11,7 +11,7 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Hi, my name is Javier. I'm a cybersecurity researcher and technology enthusiast born and raised in the bay area, California. I have over a decade of experience in hardware, robotics, and autonomous vehicles. I've worked for several tech companies ranging from early-seed startups to establish corporations such as Tesla, Amazon, Saildrone, and Tonal, just to name a few. In my free time I enjoy creating content on my various passions which include technology, men's fashion, health & wellness, engineering, and much more."
+excerpt: "Hi, my name is Javier. I'm a cybersecurity researcher and technology enthusiast born and raised in the bay area, California. I have over a decade of experience working in hardware, robotics, and autonomous vehicles."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
