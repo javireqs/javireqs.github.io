@@ -8,8 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/ggBridge.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Download CV"
+      url: "/assets/images/JavierHernandezRequena_Resume.pdf"
   caption: "Photo credit: [**Pexels**](https://www.pexels.com)"
 excerpt: "Hi, my name is Javier. I'm a cybersecurity researcher and technology enthusiast born and raised in the SF Bay Area, California. I have over a decade of experience working in hardware, robotics, and autonomous vehicles."
 intro: 
