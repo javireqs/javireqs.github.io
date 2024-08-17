@@ -6,11 +6,11 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/ggBridge.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Pexels**](https://www.pexels.com)"
 excerpt: "Hi, my name is Javier. I'm a cybersecurity researcher and technology enthusiast born and raised in the SF Bay Area, California. I have over a decade of experience working in hardware, robotics, and autonomous vehicles."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
