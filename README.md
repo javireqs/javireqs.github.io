@@ -1,8 +1,8 @@
-# Minimal Mistakes remote theme starter
+# Javier Requena Webpage
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This is my personal webpage which includes some blog posts, my social media handles, and an about me section with a downloadable resume.
 
-Contains basic configuration to get you a site with:
+Please feel free to browse around and learn more about me.
 
 - Sample posts.
 - Sample top navigation.
