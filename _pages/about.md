@@ -1,67 +1,19 @@
 ---
-permalink: /about/
+layout: single
 title: "About"
-layout: splash
-date: 2016-03-23T11:48:41-04:00
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/ggBridge.jpg
-  actions:
-    - label: "Download CV"
-      url: "/assets/images/JavierHernandezRequena_Resume.pdf"
-  caption: "Photo credit: [**Pexels**](https://www.pexels.com)"
-excerpt: "Hi, my name is Javier. I'm a cybersecurity researcher and technology enthusiast born and raised in the SF Bay Area, California. I have over a decade of experience working in hardware, robotics, and autonomous vehicles."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+permalink: /about/
 ---
 
-{% include feature_row id="intro" type="center" %}
+Hi, I'm **Javier Hernandez Requena**, a cybersecurity researcher and technology enthusiast. I was born and raised in the SF Bay Area, California, and I have over a decade of experience working in hardware, robotics, and autonomous vehicles.
 
-{% include feature_row %}
+My passion lies in solving complex problems with innovative technology. Over the years, I've developed a deep understanding of cybersecurity and hardware engineering, with a focus on autonomous systems.
 
-{% include feature_row id="feature_row2" type="left" %}
+---
 
-{% include feature_row id="feature_row3" type="right" %}
+## Experience
 
-{% include feature_row id="feature_row4" type="center" %}
+- **Cybersecurity Researcher**: Focus on hardware security, ethical hacking, and vulnerability assessments.
+- **Robotics Enthusiast**: Developed autonomous systems for various industries, including automotive and defense.
+- **Hardware Engineering**: Specialized in working with embedded systems and hardware-based solutions.
+
+Feel free to explore my [projects](/projects/) or connect with me on [GitHub](https://github.com/javireqs), [Twitter](https://twitter.com/javireqs), and [LinkedIn](https://linkedin.com/in/javireqs).
