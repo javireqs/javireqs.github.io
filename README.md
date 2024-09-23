@@ -1,5 +1,7 @@
 # Javier Requena Webpage
 
+*** CURRENTLY UNDER CONSTRUCTION ***
+
 This is my personal webpage generated from the Minima Mistakes Github Repo.
 It includes some blog posts, my social media handles, and an about me section with a downloadable resume.
 
