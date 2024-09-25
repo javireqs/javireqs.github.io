@@ -1,30 +1,38 @@
 ---
 layout: splash
-author_profile: true
+permalink: /
+hidden: true
 header:
-  overlay_image: /assets/images/splash-background.jpg  # Replace with your actual image
-  overlay_filter: 0.3
-  caption: "Javier Hernandez Requena"
-  caption_align: center
-  cta_label: "Explore My Projects"
-  cta_url: "/projects/"
-  cta_class: "btn btn-primary"
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/ggBridge.jpg 
+  actions:
+    - label: "<i class='fas fa-download'></i> Check it out"
+      url: "/your-link/"
+excerpt: >
+  A simple portfolio showcasing my work in cybersecurity, robotics, and technology.<br />
+  <small><a href="https://github.com/javireqs">Latest Projects</a></small>
+feature_row:
+  - 
+    alt: "Project 1"
+    title: "C++"
+    excerpt: "C++ data structures and algorithms."
+    url: "/projects/#cpp-projects"
+    btn_class: "btn--primary"
+    btn_label: "View"
+  - 
+    alt: "Project 2"
+    title: "Python"
+    excerpt: "Python automation and scripting solutions."
+    url: "/projects/#python-projects"
+    btn_class: "btn--primary"
+    btn_label: "View"
+  - 
+    alt: "Project 3"
+    title: "Javascript"
+    excerpt: "Simple web development projects."
+    url: "/projects/#web-projects"
+    btn_class: "btn--primary"
+    btn_label: "View"      
 ---
 
-# Hi, I'm Javier
-
-I'm a **cybersecurity researcher** and **technology enthusiast** based in the SF Bay Area, California. With over a decade of experience working in **hardware**, **robotics**, and **autonomous vehicles**, I thrive on solving complex problems and creating cutting-edge solutions.
-
----
-
-## Featured Projects
-
-Here are some of my key projects:
-
-{% include feature_row id="feature_row" %}
-
----
-
-## Get in Touch
-
-[Contact Me](/contact/){: .btn .btn--primary }
+{% include feature_row %}

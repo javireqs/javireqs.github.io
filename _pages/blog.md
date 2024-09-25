@@ -2,6 +2,7 @@
 layout: posts
 title: "Blog"
 permalink: /blog/
+paginate: true
 ---
 
 Welcome to my blog! Here, I share insights and updates on cybersecurity, technology, and hardware projects.
