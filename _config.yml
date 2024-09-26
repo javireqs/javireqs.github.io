@@ -10,7 +10,7 @@ minimal_mistakes_skin: neon  # Choose a skin for the theme
 search: true
 
 # Remote theme
-remote_theme: "mmistakes/minimal-mistakes@4.26.2" 0 # Use the Minimal Mistakes theme from GitHub
+remote_theme: "mmistakes/minimal-mistakes@4.26.2" # Use the Minimal Mistakes theme from GitHub
 
 # Base URL
 url: "https://javireqs.github.io"
@@ -106,15 +106,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
 
 
 # SEO and Analytics
