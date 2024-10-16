@@ -4,12 +4,9 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/ggBridge.jpg 
-  actions:
-    - label: "<i class='fas fa-download'></i> Check it out"
-      url: "/your-link/"
+  overlay_image: /assets/images/ggBridge.jpg
 excerpt: >
-  A simple portfolio showcasing my work in cybersecurity, robotics, and technology.<br />
+  A simple portfolio showcasing my projects in cybersecurity, software, and hardware.<br />
   <small><a href="https://github.com/javireqs">Latest Projects</a></small>
 feature_row:
   - 

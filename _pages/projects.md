@@ -18,7 +18,8 @@ Here are some of my featured projects:
 ## C++ Projects {#cpp-projects}
 
 ### College Assignments in C++
-One of my projects involved implementing data structures in C++. Below is a link to the repository containing this work, including a Linked List implementation.
+
+One of my projects involved implementing a small playlist in C++. Below is a link to the repository containing this work, including a Linked List implementation.
 
 - [View C++ Repository on GitHub](https://github.com/javireqs/cpp-college-assignments)
 
@@ -39,8 +40,9 @@ int main() {
 
 ## Python Projects {#python-projects}
 
-### [Your Python Project Title]
-This Python project showcases [brief project description]. You can find the code in the GitHub repository below.
+### Python Scripts
+
+This Python project showcases a small program using the Fibonacci formula. You can find the code in the GitHub repository below.
 
 - [View Python Repository on GitHub](https://github.com/yourusername/python-projects)
 
@@ -55,10 +57,11 @@ def fibonacci(n):
 }
 ```
 
-## Bash/Unix Scripts {bash-scripts}
+## Bash Scripts {#bash-scripts}
 
-## [Your Bash/Unix Script Title]
-This Bash/Unix project demonstrates [brief description of the script or project]. You can explore the repository by following the link below.
+## Simple Scripts
+
+This Bash/Unix project demonstrates a quick script for backing up a directory. You can explore the repository by following the link below.
 
 - [View Bash/Unix Repository on Github](https://github.com/javireqs/bash-scripts)
 
@@ -77,9 +80,9 @@ echo "Backup complete!"
 
 ## Web Projects {#web-projects}
 
-## [Your Javascript Projects Title]
-## [Your Bash/Unix Script Title]
-This web project demonstrates [brief description of the script or project]. You can explore the repository by following the link below.
+## Javascript - HTML - CSS
+
+This web project demonstrates a simple webpage. You can explore the repository by following the link below.
 
 - [View Web Projects Repository on Github](https://github.com/javireqs/web-projects)
 
