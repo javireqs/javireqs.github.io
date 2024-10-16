@@ -44,7 +44,7 @@ int main() {
 
 This Python project showcases a small program using the Fibonacci formula. You can find the code in the GitHub repository below.
 
-- [View Python Repository on GitHub](https://github.com/yourusername/python-projects)
+- [View Python Repository on GitHub](https://github.com/javireqs/python-projects)
 
 **Code Snippet:**
 
