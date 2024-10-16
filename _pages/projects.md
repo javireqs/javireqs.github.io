@@ -21,7 +21,7 @@ Here are some of my featured projects:
 
 One of my projects involved implementing a small playlist in C++. Below is a link to the repository containing this work, including a Linked List implementation.
 
-- [View C++ Repository on GitHub](https://github.com/javireqs/cpp-college-assignments)
+- [View C++ Repository on GitHub](https://github.com/javireqs/cpp-projects)
 
 **Code Snippet:**
 
