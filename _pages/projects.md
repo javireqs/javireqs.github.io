@@ -15,7 +15,7 @@ Here are some of my featured projects:
 
 ---
 
-## C++ Projects {#cpp-projects}
+## C++ {#cpp-projects}
 
 ### College Assignments in C++
 
@@ -38,7 +38,7 @@ int main() {
 }
 ```
 
-## Python Projects {#python-projects}
+## Python {#python-projects}
 
 ### Python Scripts
 
@@ -57,9 +57,9 @@ def fibonacci(n):
 }
 ```
 
-## Bash Scripts {#bash-scripts}
+## Bash {#bash-scripts}
 
-## Simple Scripts
+### Simple Scripts
 
 This Bash/Unix project demonstrates a quick script for backing up a directory. You can explore the repository by following the link below.
 
@@ -78,9 +78,9 @@ cp -r $backup_dir $dest_dir
 echo "Backup complete!"
 ```
 
-## Web Projects {#web-projects}
+## Web {#web-projects}
 
-## Javascript - HTML - CSS
+### Javascript - HTML - CSS
 
 This web project demonstrates a simple webpage. You can explore the repository by following the link below.
 
@@ -102,3 +102,18 @@ This web project demonstrates a simple webpage. You can explore the repository b
 </body>
 </html>
 ```
+
+## Cybersecurity
+
+### Hack The Box Experience
+
+As part of my ongoing cybersecurity development, I regularly participate in Hack The Box challenges. These challenges allow me to sharpen my skills in ethical hacking, network security, and penetration testing.
+
+#### Completed Machines
+
+1. **Machine 1**: [Writeup on GitHub](https://github.com/javireqs/htb-writeups/Machine1/writeup.md)
+   - Techniques: Network scanning, brute force, and privilege escalation.
+2. **Machine 2**: [Writeup on GitHub](https://github.com/javireqs/htb-writeups/Machine2/writeup.md)
+   - Tools: Nmap, Burp Suite, and custom Python scripts.
+
+[Explore my Hack The Box Writeups on GitHub](https://github.com/javireqs/htb-writeups)
