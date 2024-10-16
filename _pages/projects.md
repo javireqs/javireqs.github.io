@@ -116,4 +116,4 @@ As part of my ongoing cybersecurity development, I regularly participate in Hack
 2. **Machine 2**: [Writeup on GitHub](https://github.com/javireqs/htb-writeups/Machine2/writeup.md)
    - Tools: Nmap, Burp Suite, and custom Python scripts.
 
-[Explore my Hack The Box Writeups on GitHub](https://github.com/javireqs/htb-writeups)
+- [Explore my Hack The Box Writeups on GitHub](https://github.com/javireqs/htb-writeups)
