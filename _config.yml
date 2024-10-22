@@ -46,6 +46,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/javireqs"
+    - label: "UGC Portfolio"
+      icon: "fas fa-fw fa-link"  # Choose a suitable icon from Font Awesome
+      url: "https://javierrequena.my.canva.site/ugc"
 
 # Navigation links
 nav:
