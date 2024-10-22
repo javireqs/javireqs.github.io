@@ -105,6 +105,16 @@ This web project demonstrates a simple webpage. You can explore the repository b
 
 ## Cybersecurity
 
+### Hardware Hacking 101
+
+Learn more about hardware hacking by checking out my [Hardware 101 presentation](https://javireqs.github.io/assets/files/hardware101.pdf).
+
+This presentation covers topics such as:
+
+- Benefits of hardware hacking
+- Tools for hardware hacking
+- Techniques like reverse engineering and glitching attacks
+
 ### Hack The Box Experience
 
 As part of my ongoing cybersecurity development, I regularly participate in Hack The Box challenges. These challenges allow me to sharpen my skills in ethical hacking, network security, and penetration testing.
