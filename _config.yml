@@ -31,7 +31,7 @@ timezone: America/Los_Angeles
 # Social Links
 author:
   name: "Javier Hernandez Requena"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/profile.jpg"
   bio: "Cybersecurity researcher and technology enthusiast."
   links:
     - label: "Twitter"
