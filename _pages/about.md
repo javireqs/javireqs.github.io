@@ -8,7 +8,7 @@ Hi, I'm **Javier Hernandez Requena**, a cybersecurity researcher and technology 
 
 I've had the privilege of working with various companies at different stages ranging from early-seed start-ups to established big tech corporations and everything in between. Some notable companies include Tesla, Amazon, Saildrone, and Tonal, just to name a few.
 
-My passion lies in solving complex problems with innovative technology. Over the years, I've developed a deep understanding of cybersecurity and hardware engineering, with a focus on autonomous systems.
+My passion lies in solving complex problems with innovative technology. Over the years, I've developed a deep understanding of cybersecurity and hardware engineering, with a focus on robotics systems.
 
 ---
 
